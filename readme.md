@@ -21,6 +21,7 @@ pip install -r requirements.txt
 Create a .env in the project root:
 
 dotenv
+## create a .env file on local machine and set the Key values 
 # Required for Gemini (Google AI)
 GOOGLE_API_KEY=your_gemini_api_key
 
